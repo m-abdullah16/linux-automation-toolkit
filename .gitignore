@@ -4,3 +4,4 @@ github_new.pub
 *.pem
 *.key
 >>>>>>> 95fc17778702928fb05bc7cbcd10619aaa181031
+*.log
